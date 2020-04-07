@@ -10,7 +10,17 @@ Download the repository and then do:
 
 ## Help
 
-> % node index.js -h
+    % node index.js -h
+    Usage:
+      node index.js [OPTION]
+
+    Options:
+      -b, --prefix=[ARG]  The prefix.
+      -h, --help          Display this help.
+      -l, --length=[ARG]  The password length.
+      -m, --memorable     Should the password be memorable?
+      -n, --number=[ARG]  Number of passwords to generate.
+      -p, --pattern=[ARG] Pattern to match.
 
 ## Run the Tests
 

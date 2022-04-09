@@ -24,7 +24,7 @@
   "dependencies": {
     "chalk": "^4.0.0",
     "fs": "0.0.1-security",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-getopt": "^0.3.2",
     "password-generator": "^2.2.3",
     "winston": "^3.2.1"

@@ -19,7 +19,7 @@
     "eslint-plugin-mocha": "^6.3.0",
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^2.5.0",
-    "mocha": "^7.1.1"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "chalk": "^4.0.0",
